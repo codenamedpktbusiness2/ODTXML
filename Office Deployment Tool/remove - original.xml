@@ -1,0 +1,4 @@
+<?xml version="1.2" encoding="UTF-8"?>
+<Configuration ID="8e9ac259-f888-435a-9c91-ece29b982dc3" Name="Remove Microsoft 365 products" Description="Uninstall Microsoft 365 products and remove its related files.">
+  <RemoveAll />
+</Configuration>
